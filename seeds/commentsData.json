@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Great Post!",
+        "user_id": 1,
+        "blogPost_id": 1
+    },
+    {
+        "text":"Not helpful...",
+        "user_id": 2,
+        "blogPost_id": 2
+    }
+]
